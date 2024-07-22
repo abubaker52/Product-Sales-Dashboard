@@ -1,7 +1,3 @@
-Optimizing Dashboard Assignment
-
-🚀 Professional Milestone Achieved! 🚀
-
 This repository documents the completion of my Optimizing Dashboard assignment, showcasing the process and enhancements made using Power BI.
 Table of Contents
 
